@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ExtendedEuclid</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="inverseNumber">Обратное число по модулю</string>
+    <string name="Run">Запустить</string>
+    <string name="number">Число</string>
+    <string name="modul">Модуль</string>
+    <string name="Clear">очистить</string>
+    <string name="Solution">решение</string>
+    <string name="Stepen">возвести</string>
+    <string name="Step">Степень</string>
+</resources>
